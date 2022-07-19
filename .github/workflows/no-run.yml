@@ -1,8 +1,8 @@
-name: py
+name: DO NOT RUN
 on:
   push:
     paths:
-      - 'worm.py'
+      - 'null.py'
 
 jobs:
   build:
